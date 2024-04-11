@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -149,7 +149,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Mobile-Flappy-Bird-Version-12-Sprites_0
+      name: BackgroundDay
       rect:
         serializedVersion: 2
         x: 0
@@ -170,7 +170,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mobile-Flappy-Bird-Version-12-Sprites_1
+      name: BackgroundNight
       rect:
         serializedVersion: 2
         x: 146
@@ -1860,8 +1860,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Mobile-Flappy-Bird-Version-12-Sprites_0: -51687451
-      Mobile-Flappy-Bird-Version-12-Sprites_1: 2115885073
+      BackgroundDay: -51687451
+      BackgroundNight: 2115885073
       Mobile-Flappy-Bird-Version-12-Sprites_10: -346805392
       Mobile-Flappy-Bird-Version-12-Sprites_11: 695001304
       Mobile-Flappy-Bird-Version-12-Sprites_12: 424332130
